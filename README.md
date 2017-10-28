@@ -14,9 +14,7 @@ Format :
 "event": "", 
 "day": "Sun", 
 "holiday": false},
-....],
-"Jestha":[...]
-...
+],
 }
 ```
 
